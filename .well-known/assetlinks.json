@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.instanty.africa.mobilemoney.transfer",
+      "sha256_cert_fingerprints": [BF:24:84:00:AD:6A:C0:CE:FD:43:01:64:85:81:6C:33:BC:66:FC:34:71:08:DB:0F:5C:FD:08:4E:1C:35:FE:E8]
+    }
+  }
+]
