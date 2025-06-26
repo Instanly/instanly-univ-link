@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7WZD96M2WW.com.instanty.africa.mobilemoney.transfer",
+        "paths": ["/success", "/error", "/cancel"]
+      }
+    ]
+  }
+}
