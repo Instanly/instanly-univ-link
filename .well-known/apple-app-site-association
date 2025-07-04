@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "8SNLXCT4T3.com.instanty.africa.mobilemoney.transfer",
+        "appID": "8SNLXCT4T3.com.instanly.africa.mobilemoney.transfer",
         "paths": ["/success", "/error", "/cancel"]
       }
     ]
